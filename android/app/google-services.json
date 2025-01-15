@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "743195146949",
+    "project_id": "todouygulama-94b3e",
+    "storage_bucket": "todouygulama-94b3e.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:743195146949:android:c983bfa8911228195b4eac",
+        "android_client_info": {
+          "package_name": "com.example.todo_uygulama"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8LNac_K-1JFnGF6UOFDaTTQJDYzCPRTs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
